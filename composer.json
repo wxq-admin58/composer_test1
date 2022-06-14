@@ -1,0 +1,19 @@
+{
+    "name": "wxq-admin58/composer_test1",
+    "description": "this is a composer test",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "WxqAdmin58\\ComposerTest1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wangxiaoqiang",
+            "email": "1919814727@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
